@@ -9,7 +9,6 @@ Important resources:
 Other links to hang onto for now, for future reference:
 
 1. https://code.google.com/p/iphone-dataprotection/
-2. http://www.securitylearn.net/2012/04/22/extracting-aes-keys-from-iphone/
-3. http://www.securitylearn.net/tag/decrypt-iphone-backup-keychain/
-4. http://jonatkinson.co.uk/2008/10/09/installing-m2crypto-osx/
+2. http://www.securitylearn.net/tag/decrypt-iphone-backup-keychain/
+3. http://jonatkinson.co.uk/2008/10/09/installing-m2crypto-osx/
 
